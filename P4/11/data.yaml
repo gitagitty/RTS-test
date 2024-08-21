@@ -1,0 +1,13 @@
+train: E:/cyt files/P4/11/train/images
+val: E:/cyt files/P4/11/valid/images
+test: E:/cyt files/P4/11/test/images
+
+nc: 3
+names: ['blue', 'invalid', 'red']
+
+roboflow:
+  workspace: evan-chen
+  project: ball-pzwra
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/evan-chen/ball-pzwra/dataset/1
